@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Puck
+  - Waypoint
+  - Node
+  - Countdown
+  - currentActiveTetromino
+  - currentSavedTetromino
+  - Obstacle
+  - Objective
+  - Point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Point
+  - Water
+  - UI
+  - MoveAble
+  - Maze
+  - node
+  - Ground
+  - Ladder
+  - Player
+  - Invader
+  - Laser
+  - Missile
+  - Puckman
+  - Ghost
+  - Wall
+  - Node
+  - Pellet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
